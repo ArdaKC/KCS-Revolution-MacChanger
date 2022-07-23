@@ -1,3 +1,3 @@
 # KCS-Revolution-MacChanger
 
-GNU Linux için hızlı kullanımı kolay mac değiştiricisi.
+Fast easy to use mac switcher for GNU Linux.
