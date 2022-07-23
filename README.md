@@ -1,3 +1,3 @@
 # KCS-Revolution-MacChanger
 
-Fast easy to use mac changer for GNU Linux.
+for execute write python3 krmc.py
